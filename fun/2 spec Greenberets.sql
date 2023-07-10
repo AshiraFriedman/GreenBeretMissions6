@@ -1,18 +1,18 @@
-# --Welcome to the C.I.A! We need you to help make us more aware of the nature of the current operations of the Special Forces Green Berets.
-## /*We named the  DATABASE 'GreenBeretOps'.
+--Welcome to the C.I.A! We need you to help make us more aware of the nature of the current operations of the Special Forces Green Berets.
+/*We named the  DATABASE 'GreenBeretOps.
 /*Here's what we need your help with-
 First, these are the categories for the data we will work with: 
 FirstName,LastName,YearSoldierBorn,Medal,ImportanceOfMission,MissionType,Country,
 Yarborough(the knife issued to the Special Forces).
 
 Also, here are some questions you'll need the answers to to maximize accuracy-
--1-What are the min and max numbers  for importance of a mission?
+1-What are the min and max numbers  for importance of a mission?
 5 through 29
--2-What are the earliest and latset years for Yarborough knives in this database?
+2-What are the earliest and latset years for Yarborough knives in this database?
 From 2006-2023.
--3-What are the only numbers relevant to mission status?
+3-What are the only numbers relevant to mission status?
 After a computed column to come:1,2, and 3.
--4-What are the only numbers relevant to the definition of mission importance?
+4-What are the only numbers relevant to exact definition of mission importance?
 After a computed column to come: 1,2 and 3.
 
 For Data- 
@@ -70,4 +70,4 @@ For computed columns:
  /*--3- Show age enlisted based on YearSoldierBorn and YarBorough knife
  ( YarBorough knife is a year because the Green Berets get it when they complete their training,and the year is engraved on it).
  /*--4- Show amount of stars for each medal type.
-## Thank you for your service, may God bless you and may God bless America!
+ /*Thank you for your service, may God bless you and may God bless America!
